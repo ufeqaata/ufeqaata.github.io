@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ufeqaata.github.io/sitemap_index.ufeqaata
